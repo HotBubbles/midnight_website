@@ -2,6 +2,9 @@
 layout: default
 ---
 
+# This is the beginning of my website
+Gary Garrison
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
