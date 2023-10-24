@@ -3,7 +3,7 @@ layout: default
 ---
 
 # This is the beginning of my website
-Gary Garrison
+Gary Garrison is my name
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
